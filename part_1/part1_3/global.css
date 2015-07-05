@@ -1,0 +1,37 @@
+.box {
+  width: 29%;
+  float: left;
+  margin-right: 2%;
+  border-right: solid grey;
+  height: 98%;
+  border-width  : 1px;
+  padding-right: 10px;
+}
+
+.box h1 {
+  font-size: 15px;
+}
+
+.story_box {
+  height: 300px;
+  width: 600px;
+  border-bottom: solid black;
+  border-width: 1px;
+}
+
+.box3 {
+  margin-right: 0%;
+  border: none;
+}
+
+.box p {
+  font-size: 14px;
+  margin-top: 0px;
+  color: grey;
+}
+
+.box_img {
+  height: 111px;
+  width: 172px;
+  background-color: black;
+}
