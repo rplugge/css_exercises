@@ -1,0 +1,62 @@
+.event {
+  width: 550px;
+  margin-left: 20px;
+  position: relative;
+  border-bottom: solid grey 1px;
+  padding-bottom: 10px;
+}
+
+.date {
+  position: absolute;
+  right: 0;
+  font-size: 13px;
+  color: grey;
+}
+
+.retweet_icon {
+  width: 13px;
+  height: 13px;
+  background-color: lightgreen;
+  float: left;
+  position: relative; 
+  top: 2px;
+  border-radius: 2px;
+}
+
+.info {
+  margin-left: 22px;
+  position: relative;
+}
+
+.who {
+  float: left;
+  margin-right: 5px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.what {
+  font-size: 15px; 
+  position: relative;
+}
+
+.content {
+  color: grey;
+  position: relative;
+  top: -9px;
+  font-size: 15px;
+  width: 400px;
+}
+
+.picture {
+  width: 23px;
+  height: 23px;
+  background-color: grey;
+  position: absolute;
+  top: 78px;
+  border-radius: 5px;
+}
+
+.box {
+  padding-left: 20px;
+}
