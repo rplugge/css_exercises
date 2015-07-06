@@ -1,0 +1,61 @@
+body {
+  margin: 0px;
+}
+
+#twitter_ads {
+  text-align: center;
+  width: 530px;
+  font-family: Ã¢â‚¬ËœPalatino LinotypeÃ¢â‚¬â„¢, Ã¢â‚¬ËœBook AntiquaÃ¢â‚¬â„¢, Palatino, serif;
+  position: relative;
+}
+
+#twitter_ads h1 {
+  color: #30ACFF;
+  font-weight: normal;
+  margin-bottom: 5px;
+  font-size: 30px;
+}
+
+#twitter_ads p {
+  color: #C6C6C6;
+  font-size: 17px;
+  position: relative;
+  top: -10px;
+}
+
+.button_content {
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+}
+
+.x_button {
+  height: 13px;
+  width: 13px;
+  background-color: grey;
+  position: absolute;
+  right: 3px;
+  top: 6px;
+}
+
+.button {
+  color: white;
+  width: 180px;
+  height: 40px;
+  background-color: #30ACFF;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  border: solid grey 1px;
+  border-radius: 6px;
+
+}
+
+.button_text {
+  color: white;
+  font-size: 15px;
+  position: relative;
+  font-weight: bold;
+  top: 12px;
+}
